@@ -1,0 +1,14 @@
+{
+  "FirstName": "LastName",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "connect": "1.9.2"
+  },
+  "author": "Regina Hong",
+  "license": "BSD"
+}
