@@ -1,0 +1,23 @@
+{
+  "name": "regina_DWD",
+  "version": "0.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "connect": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reginahjm/regina_DWD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reginahjm/regina_DWD/issues"
+  },
+  "homepage": "https://github.com/reginahjm/regina_DWD"
+}
